@@ -1,0 +1,41 @@
+.recipe{
+    border:solid black;
+    text-align:center;
+    display:block;
+    height:100%;
+    margin:30px;
+    background-color: aliceblue;
+}
+.recipeName{
+    font-weight: bold;
+    font-size:40px;
+    padding:20px;
+}
+.intro{
+    padding:10px;
+    font-size:20px;
+}
+.ingredients{
+    padding:20px;
+    color:cadetblue;
+    font-size:20px;
+    text-align:left;
+}
+.list{
+    color:black;
+    text-align:left;
+}
+.pic{
+    border: solid orange;
+    height:50%;
+    width:50%;
+}
+.steps{
+    padding:20px;
+    text-align:left;
+    font-size:20px;
+    color:darksalmon;
+}
+.oList{
+    color:black;
+}
